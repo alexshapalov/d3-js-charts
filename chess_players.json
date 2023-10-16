@@ -1,0 +1,22 @@
+[
+  { "name": "Garry Kasparov", "rating": 2851, "country": "Russia", "achievements": ["World Chess Champion", "Legendary Grandmaster"] },
+  { "name": "Bobby Fischer", "rating": 2785, "country": "USA", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Emanuel Lasker", "rating": 2700, "country": "Germany", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Mikhail Botvinnik", "rating": 2725, "country": "Russia", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Anatoly Karpov", "rating": 2700, "country": "Russia", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "José Capablanca", "rating": 2720, "country": "Cuba", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Viswanathan Anand", "rating": 2817, "country": "India", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Vladimir Kramnik", "rating": 2817, "country": "Russia", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Mikhail Tal", "rating": 2500, "country": "Latvia", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Alexander Alekhine", "rating": 2400, "country": "Russia", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Boris Spassky", "rating": 2350, "country": "Russia", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Tigran Petrosian", "rating": 2240, "country": "Armenia", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Max Euwe", "rating": 2200, "country": "Netherlands", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Vasily Smyslov", "rating": 2100, "country": "Russia", "achievements": ["World Chess Champion", "Grandmaster"] },
+  { "name": "Géza Maróczy", "rating": 2050, "country": "Hungary", "achievements": ["Grandmaster"] },
+  { "name": "Viktor Korchnoi", "rating": 2000, "country": "Switzerland", "achievements": ["Grandmaster"] },
+  { "name": "Savielly Tartakower", "rating": 1990, "country": "Poland", "achievements": ["Grandmaster"] },
+  { "name": "Akiba Rubinstein", "rating": 1900, "country": "Poland", "achievements": ["Grandmaster"] },
+  { "name": "Paul Keres", "rating": 2220, "country": "Estonia", "achievements": ["Grandmaster"] },
+  { "name": "Mikhail Chigorin", "rating": 2430, "country": "Russia", "achievements": ["Grandmaster"] }
+]
